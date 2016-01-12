@@ -1,0 +1,15 @@
+Indiquez si un nombre positif est heureux ou pas.
+
+Un nombre est heureux (HAPPY) si la somme répétée des carrés des chiffres constituant ce nombre vaut 1.
+
+S(86) = 8^2 + 6^2 = 64 + 36 = 100
+S(100) = 1^2 + 0^2 + 0^2 = 1
+
+86 est heureux.
+
+EXEMPLE :
+Entrée
+404
+Sortie
+404 IS HAPPY
+ 
