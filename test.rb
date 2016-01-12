@@ -1,5 +1,4 @@
 require 'minitest/autorun'
-require './happy.rb'
 
 class TestHappy < Minitest::Test
 
